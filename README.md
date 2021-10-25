@@ -36,7 +36,7 @@ Observando a imagem abaixo, crie um arquivo `part2.md` com a descrição técnic
 
 * Você deve clonar esse repositório e commitar todas as modificações, porém, não abra um pull request ou deixe seu código de resposta aberto em um fork, por exemplo.
 * Depois que terminar, compacte todo o diretório e nos envie. **Queremos analisar seus commits**.
-* Envie para o email darcy.junior`at`seedz.ag.
+* Envie para o email darcy.junior@seedz.ag.
 
 
 Bom trabalho!
